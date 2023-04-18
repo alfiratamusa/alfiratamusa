@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Alfira 
 
-<!--
-**alfiratamusa/alfiratamusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me:
+- Nama             : Alfira Anggela Tamusa
+- Alamat           : Kelurahan Pananekeng
+- Tempat,Tgl Lahir : Pananekeng,01 Agustus 2003
+- Jenis Kelamin    : Perempuan 
+- Status           : Lajang 
+- Email            : alfiraanggelatamusa@gmail.com
+- Nomor Hp         : 085256######
 
-Here are some ideas to get you started:
+## Education:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 1. [Politeknik Negeri Nusa Utara] [Sistem Informasi] | Manganitu "2021-Sekarang"
+
+### 2. [SMKN 1 Tahuna] | OTKP | Tona 2 "2019-2021"
+
+
+<br />
+<br />
